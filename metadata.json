@@ -1,0 +1,6 @@
+{
+  "name": "Snakes and Ladder",
+  "description": "An exact, accessible educational Snakes and Ladder learning game for classrooms, featuring 3D dice, custom question sets, trophy progression, CPU mode, and responsive board play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
